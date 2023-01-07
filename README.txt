@@ -1,3 +1,5 @@
+Interactive book database
+
 Instructions for Compiling and Running
 --------------------------------------
 
