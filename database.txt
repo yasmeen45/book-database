@@ -1,0 +1,22 @@
+Ztest Book|Test|0|321|0|
+Alice's adventures in Wonderland|Lewis Carroll|1865|Fantasy|101|
+Heart of Darkness|Joseph Conrad|1899|Adventure|105|
+To the Lighthouse|Virginia Woolf|1927|Fiction|144|
+The Stranger|Albert Camus|1942|Adventure|159|
+The Great Gatsby|F. Scott Fitzgerald|1925|Tragedy|198|
+The Sun Also Rises|Ernest Hemingway|1926|Fiction|206|
+Things Fall Apart|Chinua Achebe|1958|Historical|212|
+Normal People|Sally Rooney|2018|Fiction|266|
+To Kill a Mockingbird|Harper Lee|1960|Thriller|342|
+Educated|Tara Westover|2018|Biography|352|
+Pride and Prejudice|Jane Austen|1813|Romance|364|
+It Ends with Us|Colleen Hoover|2016|Romance|384|
+Atomic Habits|James Clear|2018|Self-help|428|
+The Diamond Eye|Kate Quinn|2022|Historical|432|
+Midnight's Children|Salman Rushdie|1981|Historical|446|
+Moby-Dick|Herman Melville|1851|Adventure|485|
+The Grapes of Wrath|John Steinbeck|1939|Historical|549|
+The Book Thief|Markus Zusak|2005|Historical|594|
+Invisible Man|Ralph Ellison|1952|Fiction|598|
+Ulysses|James Joyce|1920|Fiction|661|
+Little Women|Louisa May Alcott|1868|Comedy|759|
